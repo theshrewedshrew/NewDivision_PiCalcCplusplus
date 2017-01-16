@@ -1,0 +1,72 @@
+Current local time and date: Mon May 04 22:12:10 2015
+
+n : 10
+evaluation of 1/pi: where pi : 
+41879801005939325/332306998946228968225951765070086144
+Time Elapsed : 8317 (ms). 
+0000 days : 00 hours : 00 mins : 08 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:18 2015
+
+
+n : 11
+evaluation of 1/pi: where pi : 
+21762651524566145713/170141183460469231731687303715884105728
+Time Elapsed : 22492 (ms). 
+0000 days : 00 hours : 00 mins : 22 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:32 2015
+
+
+n : 12
+evaluation of 1/pi: where pi : 
+713275830502829276208955/5575186299632655785383929568162090376495104
+Time Elapsed : 35841 (ms). 
+0000 days : 00 hours : 00 mins : 35 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:45 2015
+
+
+n : 13
+evaluation of 1/pi: where pi : 
+365198435973978427213938085/2854495385411919762116571938898990272765493248
+Time Elapsed : 51159 (ms). 
+0000 days : 00 hours : 00 mins : 51 secs 
+ 
+
+Current local time and date: Mon May 04 22:13:01 2015
+
+
+n : 14
+evaluation of 1/pi: where pi : 
+1495852868524530169310246505535/11692013098647223345629478661730264157247460343808
+Time Elapsed : 70417 (ms). 
+0000 days : 00 hours : 01 mins : 10 secs 
+ 
+
+Current local time and date: Mon May 04 22:13:20 2015
+
+
+Time Elapsed : 70418 (ms). 
+0000 days : 00 hours : 01 mins : 10 secs 
+ 
+
+From 15 to 15 : 
+ 1495852868524530169310246505535./11692013098647223345629478661730264157247460343808.Current local time and date: Mon May 04 22:18:20 2015
+
+n : 10
+evaluation of 1/pi: where pi : 
+41879801005939325/332306998946228968225951765070086144
+Time Elapsed : 8789 (ms). 
+0000 days : 00 hours : 00 mins : 08 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:29 2015
+
+
+n : 11
+evaluation of 1/pi: where pi : 
+21762651524566145713/170141183460469231731687303715884105728

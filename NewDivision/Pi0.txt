@@ -1,0 +1,115 @@
+Current local time and date: Mon May 04 22:12:10 2015
+
+n : 0
+evaluation of 1/pi: where pi : 
+5/16
+Time Elapsed : 48 (ms). 
+0000 days : 00 hours : 00 mins : 00 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:10 2015
+
+
+n : 1
+evaluation of 1/pi: where pi : 
+2607/8192
+Time Elapsed : 417 (ms). 
+0000 days : 00 hours : 00 mins : 00 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:10 2015
+
+
+n : 2
+evaluation of 1/pi: where pi : 
+10680675/33554432
+Time Elapsed : 4327 (ms). 
+0000 days : 00 hours : 00 mins : 04 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:14 2015
+
+
+n : 3
+evaluation of 1/pi: where pi : 
+5468521975/17179869184
+Time Elapsed : 5260 (ms). 
+0000 days : 00 hours : 00 mins : 05 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:15 2015
+
+
+n : 4
+evaluation of 1/pi: where pi : 
+179192535494175/562949953421312
+Time Elapsed : 8317 (ms). 
+0000 days : 00 hours : 00 mins : 08 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:18 2015
+
+
+Time Elapsed : 8327 (ms). 
+0000 days : 00 hours : 00 mins : 08 secs 
+ 
+
+From 5 to 5 : 
+ 179192535494175./562949953421312.Current local time and date: Mon May 04 22:18:20 2015
+
+n : 0
+evaluation of 1/pi: where pi : 
+5/16
+Time Elapsed : 56 (ms). 
+0000 days : 00 hours : 00 mins : 00 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:20 2015
+
+
+n : 1
+evaluation of 1/pi: where pi : 
+2607/8192
+Time Elapsed : 891 (ms). 
+0000 days : 00 hours : 00 mins : 00 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:21 2015
+
+
+n : 2
+evaluation of 1/pi: where pi : 
+10680675/33554432
+Time Elapsed : 1384 (ms). 
+0000 days : 00 hours : 00 mins : 01 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:22 2015
+
+
+n : 3
+evaluation of 1/pi: where pi : 
+5468521975/17179869184
+Time Elapsed : 3139 (ms). 
+0000 days : 00 hours : 00 mins : 03 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:23 2015
+
+
+n : 4
+evaluation of 1/pi: where pi : 
+179192535494175/562949953421312
+Time Elapsed : 6796 (ms). 
+0000 days : 00 hours : 00 mins : 06 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:27 2015
+
+
+Time Elapsed : 6798 (ms). 
+0000 days : 00 hours : 00 mins : 06 secs 
+ 
+
+From 5 to 5 : 
+ 179192535494175./562949953421312.

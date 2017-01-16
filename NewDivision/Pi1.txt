@@ -1,0 +1,92 @@
+Current local time and date: Mon May 04 22:12:10 2015
+
+n : 5
+evaluation of 1/pi: where pi : 
+53760105/288230376151711744
+Time Elapsed : 4327 (ms). 
+0000 days : 00 hours : 00 mins : 04 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:14 2015
+
+
+n : 6
+evaluation of 1/pi: where pi : 
+223369272567/1180591620717411303424
+Time Elapsed : 8317 (ms). 
+0000 days : 00 hours : 00 mins : 08 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:18 2015
+
+
+n : 7
+evaluation of 1/pi: where pi : 
+114388674677415/604462909807314587353088
+Time Elapsed : 12592 (ms). 
+0000 days : 00 hours : 00 mins : 12 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:22 2015
+
+
+n : 8
+evaluation of 1/pi: where pi : 
+29986395600348018135/158456325028528675187087900672
+Time Elapsed : 18428 (ms). 
+0000 days : 00 hours : 00 mins : 18 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:28 2015
+
+
+n : 9
+evaluation of 1/pi: where pi : 
+15353035235180548229245/81129638414606681695789005144064
+Time Elapsed : 25446 (ms). 
+0000 days : 00 hours : 00 mins : 25 secs 
+ 
+
+Current local time and date: Mon May 04 22:12:35 2015
+
+
+Time Elapsed : 25447 (ms). 
+0000 days : 00 hours : 00 mins : 25 secs 
+ 
+
+From 10 to 10 : 
+ 15353035235180548229245./81129638414606681695789005144064.Current local time and date: Mon May 04 22:18:20 2015
+
+n : 5
+evaluation of 1/pi: where pi : 
+53760105/288230376151711744
+Time Elapsed : 1658 (ms). 
+0000 days : 00 hours : 00 mins : 01 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:22 2015
+
+
+n : 6
+evaluation of 1/pi: where pi : 
+223369272567/1180591620717411303424
+Time Elapsed : 6796 (ms). 
+0000 days : 00 hours : 00 mins : 06 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:27 2015
+
+
+n : 7
+evaluation of 1/pi: where pi : 
+114388674677415/604462909807314587353088
+Time Elapsed : 12307 (ms). 
+0000 days : 00 hours : 00 mins : 12 secs 
+ 
+
+Current local time and date: Mon May 04 22:18:33 2015
+
+
+n : 8
+evaluation of 1/pi: where pi : 
+29986395600348018135/158456325028528675187087900672
